@@ -1,0 +1,6 @@
+{
+  "name": "synthetic-handoff-example",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Metadata-only fixture; no dependencies or executable scripts"
+}
